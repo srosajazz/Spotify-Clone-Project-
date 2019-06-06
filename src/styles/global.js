@@ -21,9 +21,6 @@ const GlobalStyle = createGlobalStyle`
     color: #FFF;
   }
 
-  button {
-    cursor: pointer;
-  }
 `;
 
 export default GlobalStyle;
